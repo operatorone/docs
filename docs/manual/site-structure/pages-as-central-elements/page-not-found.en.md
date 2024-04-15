@@ -1,7 +1,7 @@
 ---
 title: '404 Page not found'
 description: 'This page is rendered when a visitor requests an inexisting page. You can choose to use the page as a 
-regular page and include a sitemap or automatically redirect the user to another page.'
+regular page and include a sitemap or automatically redirect the user to another page. It is advisable to create a 404 page for each root page, including each language.'
 url: "site-structure/page-not-found"
 aliases:
     - /en/site-structure/pages-as-central-elements/page-not-found/
