@@ -2,7 +2,7 @@
 title: "404 Seite nicht gefunden"
 description: "Diese Seite wird aufgerufen, wenn ein Besucher eine nicht vorhandene Seite anfragt. Du kannst die Seite 
 wahlweise als reguläre Seite nutzen und dort z. B. eine Sitemap einbinden oder den Benutzer automatisch auf eine andere 
-Seite weiterleiten."
+Seite weiterleiten. Es empfiehlt sich für jeden Startpunkt, also auch für jede Sprache, eine 404-Seite anzulegen."
 url: "seitenstruktur/seite-nicht-gefunden"
 aliases:
     - /de/seitenstruktur/seiten-als-zentrale-elemente/seite-nicht-gefunden
